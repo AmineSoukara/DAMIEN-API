@@ -65,19 +65,18 @@
 
 # 🎰 Mandatory Configs 
 
-* [x] Make Sure You Have All These Mandatory Configs, API Will Not Work Without it
-```
-API_URL - ACCESS_TOKEN - ID - PASSWORD
-```
+* [x] Make Sure You Have All These Mandatory Configs (```API_URL``` - ```ACCESS_TOKEN``` - ```ID``` - ```PASSWORD```) API Will Not Work Without It
+
 * [x] You Can Get it From:
 <div align="center">
 <a href="https://t.me/DamienRobot"><img src="https://img.shields.io/badge/@DamienRobot-FFFF00?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
-#
+##
   
 # ❤️ Used By :
 
-<a href="https://t.me/N1TVsBot"><img src="https://img.shields.io/badge/@N1TVsBot-FF0000?style=flat&logo=telegram&logoColor=black"></a> <a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/@DezAltyBot-FF0000?style=flat&logo=telegram&logoColor=black"></a>
+<a href="https://t.me/N1TVsBot"><img src="https://img.shields.io/badge/@N1TVsBot-FF0000?style=flat&logo=telegram&logoColor=black"></a> <a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/@DezAltyBot-7F00FF?style=flat&logo=telegram&logoColor=black"></a>
+
 ##
 
 ## ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
