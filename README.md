@@ -70,8 +70,7 @@
 
 > **Note**
 > You Can Get it From:
-> <div align="center">
-<a href="https://t.me/DamienRobot"><img src="https://img.shields.io/badge/@DamienRobot-FFFF00?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
+> <div align="center"> <a href="https://t.me/DamienRobot"><img src="https://img.shields.io/badge/@DamienRobot-FFFF00?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
 ##
   
