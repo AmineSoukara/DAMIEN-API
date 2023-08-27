@@ -69,7 +69,7 @@
 > [x] Make Sure You Have All These Mandatory Configs (```API_URL``` - ```ACCESS_TOKEN``` - ```ID``` - ```PASSWORD```) API Will Not Work Without It
 
 > **Note**
-> You Can Get it From : ⤵️
+> You Can Get it From :
 > <div align="center">
 <a href="https://t.me/DamienRobot"><img src="https://img.shields.io/badge/@DamienRobot-FFFF00?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 ##
