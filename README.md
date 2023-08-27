@@ -48,9 +48,10 @@
 
 ##
 
-# ⚠️ Note:
-- For Personal Use Only, Don't Create Or Build Something Huge With This API Without Permission Otherwise You Will Be Banned
-- This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/Damien-Api/blob/main/LICENSE)
+## ⚠️ **Note**
+>  For Personal Use Only, Don't Create Or Build Something Huge With This API Without Permission Otherwise You Will Be Banned
+
+> This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/Damien-Api/blob/main/LICENSE)
 
 ##
 
@@ -65,10 +66,11 @@
 
 # 🎰 Mandatory Configs 
 
-* [x] Make Sure You Have All These Mandatory Configs (```API_URL``` - ```ACCESS_TOKEN``` - ```ID``` - ```PASSWORD```) API Will Not Work Without It
+> [x] Make Sure You Have All These Mandatory Configs (```API_URL``` - ```ACCESS_TOKEN``` - ```ID``` - ```PASSWORD```) API Will Not Work Without It
 
-* [x] You Can Get it From:
-<div align="center">
+> **Note**
+> You Can Get it From:
+> <div align="center">
 <a href="https://t.me/DamienRobot"><img src="https://img.shields.io/badge/@DamienRobot-FFFF00?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
 ##
